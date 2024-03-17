@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 
 ###
 <h2 align="left">🌐 Social Presence
+  <h3>Got some projects to share or discuss, feel free to connect with me
  <br><br>
   <div align="left"> &nbsp;  &nbsp;  &nbsp; 
     <a href="https://www.linkedin.com/in/sazzadali/" target="_blank">
@@ -49,6 +50,7 @@ Here are some ideas to get you started:
     </a> &nbsp; 
   </div>
  <br>
+    </h3>
  </h2>
  
  ###

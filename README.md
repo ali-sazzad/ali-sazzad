@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 
 ###
 <h2 align="left">🌐 Social Presence
-  <h3>Got some projects to share or discuss, feel free to connect with me
  <br><br>
   <div align="left"> &nbsp;  &nbsp;  &nbsp; 
     <a href="https://www.linkedin.com/in/sazzadali/" target="_blank">
@@ -50,7 +49,6 @@ Here are some ideas to get you started:
     </a> &nbsp; 
   </div>
  <br>
-    </h3>
  </h2>
  
  ###
@@ -74,6 +72,8 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
+  <br><br>
+   &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />

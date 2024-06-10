@@ -1,5 +1,5 @@
 <!--
-**SazzGitHub/SazzGitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ali-sazzad/ali-sazzad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="left">
-  <img height="190" src="https://media.licdn.com/dms/image/D5603AQF9J34uZHyupg/profile-displayphoto-shrink_800_800/0/1692872820399?e=1715212800&v=beta&t=Zl-MvDYvvUYGKeDCoOnUMM72t8WV-GA20dZCP5bH2HI" />
+  <img height="190" src="https://media.licdn.com/dms/image/D5603AQF9J34uZHyupg/profile-displayphoto-shrink_200_200/0/1692872820399?e=1723680000&v=beta&t=IK8Vh-F90twudBU2CCK3HOp1VNsD7g_ghxbdVo22IsQ" />
 </div>
 
 ###

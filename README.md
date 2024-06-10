@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ###
 
 <h2 align="left"> hey there 👋 <br><br>
-    I'm a Full-Stack Software Engineer based in Sydney. I am passionate about AI, with experience in Web Design and Development. <br><br>
+    I'm Sazzad, a Full-Stack Software Engineer based in Sydney, passionate about AI, with experience in Coding, Programming, and Design. <br><br>
     <i><h5>📝 Currently learning: </h5></i> &nbsp;  &nbsp;  &nbsp;  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" /> 
     <img width="12" /> &nbsp; 

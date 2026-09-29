@@ -30,10 +30,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,100:F72585&height=46&text=%F0%9F%91%8B%20About%20Me&fontSize=22&fontColor=ffffff&fontAlignY=55" width="100%" alt="About me" />
 </p>
 
-<table>
-  <tr>
-    <td width="58%" valign="top">
-
 ```ts
 const sazzad = {
   role: "Full-Stack Software Engineer",
@@ -44,19 +40,29 @@ const sazzad = {
   openTo: "freelance & full-time roles ✅",
 };
 ```
-<br>
-</td>
-    <td width="42%" valign="top">
 
-🎨 &nbsp;I design in **Figma** and ship in **Next.js + TypeScript** — wireframe to production.
-
-♿ &nbsp;Accessibility, performance and the tiny details that make UI feel **premium**.
-
-🤖 &nbsp;Exploring how **AI** makes everyday products smarter and simpler.
-
-📫 &nbsp;**[find.sazzadali@gmail.com](mailto:find.sazzadali@gmail.com)**
-
-</td>
+<table>
+  <tr>
+    <td width="25%" align="center" valign="top">
+      <h3>🎨</h3>
+      <b>Design → Code</b><br/>
+      <sub>I design in <b>Figma</b> and ship in <b>Next.js + TypeScript</b>, wireframe to production.</sub>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <h3>♿</h3>
+      <b>Premium UX</b><br/>
+      <sub>Accessibility, performance and the tiny details that make UI feel <b>premium</b>.</sub>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <h3>🤖</h3>
+      <b>AI Explorer</b><br/>
+      <sub>Exploring how <b>AI</b> makes everyday products smarter and simpler.</sub>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <h3>📫</h3>
+      <b>Let's talk</b><br/>
+      <sub><a href="mailto:find.sazzadali@gmail.com">find.sazzadali@gmail.com</a></sub>
+    </td>
   </tr>
 </table>
 

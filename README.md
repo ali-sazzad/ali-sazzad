@@ -44,7 +44,7 @@ const sazzad = {
   openTo: "freelance & full-time roles ✅",
 };
 ```
-
+<br>
 </td>
     <td width="42%" valign="top">
 

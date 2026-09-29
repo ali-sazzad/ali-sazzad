@@ -1,77 +1,122 @@
-### hey there 👋
-<p>
-    I'm a Full-Stack Software Engineer passionate about AI, with experience in UI/UX, Web Design, and Web Development.
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=210&section=header&text=Sazzad%20Ali&fontSize=68&fontColor=ffffff&fontAlignY=36&desc=Designer%20%E2%80%A2%20Programmer%20%E2%80%A2%20Developer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Sazzad Ali" />
 </p>
 
-###
+<p align="center">
+  <a href="https://sazzadali-portfolio.vercel.app">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=Full-Stack+Software+Engineer;Frontend+%26+UI%2FUX+Engineer;Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Tailwind+%E2%80%A2+shadcn%2Fui;Passionate+about+AI-powered+products" alt="Typing SVG" />
+  </a>
+</p>
 
-## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/craftcode_studio/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sazzadali/)
-
-## 📄 Languages
-![](https://skillicons.dev/icons?i=react,next,js,python&theme=light)
-
-## 🖊 Editors & IDEs
-![](https://skillicons.dev/icons?i=pycharm,idea,vscode)
-
-
-###
-
-## 🎞️ Design Tools
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="40" alt="photoshop logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="40" alt="adobeillustrator logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-</div>
-
-###
-
-## ⚙️ Tools and Technologies
-  
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"  alt="git logo" />
-  <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"
-</div>
-
-###
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ali-sazzad&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true&show_icons=true" height="200" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-sazzad&theme=midnight-purple&hide_border=false" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-sazzad&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="200" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ali-sazzad&hide_border=true&theme=material-palenight&radius=16" height="300" />
-  
-</div>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ali-sazzad&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <a href="https://sazzadali-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/sazzadali/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/Sazzad_Ali_0"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.instagram.com/craftcode_studio/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <img src="https://komarev.com/ghpvc/?username=ali-sazzad&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=ali-sazzad&icon=1&color=6)
+## 👋 About me
+
+```ts
+const sazzad = {
+  role: "Full-Stack Software Engineer",
+  focus: ["Frontend & UI/UX", "Web Design", "AI-powered products"],
+  basedIn: "Australia 🇦🇺",
+  currentlyBuilding: ["Job Track", "Digital Pragati"],
+  loves: ["pixel-perfect UI", "accessible interfaces", "clean TypeScript"],
+  openTo: "freelance & full-time roles",
+};
+```
+
+- 🎨 I design in **Figma** and ship in **Next.js + TypeScript** — from wireframe to production.
+- ♿ I care about accessibility, performance and the small details that make an interface feel premium.
+- 🤖 Exploring how AI can make everyday products smarter and simpler.
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/sazzadali/) — always happy to talk design, code or collaboration.
+
+## 🛠️ Tech stack
+
+<p align="center"><b>Frontend</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,vite,html,css&perline=8" alt="Frontend" />
+</p>
+
+<p align="center"><b>Backend &amp; Data</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,py,java,mongodb,postgres,mysql,firebase,supabase&perline=9" alt="Backend and data" />
+</p>
+
+<p align="center"><b>Tools &amp; Design</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,idea,pycharm,figma,ps,ai,ae&perline=10" alt="Tools and design" />
+</p>
+
+## 🚀 Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💼 <a href="https://github.com/ali-sazzad/job-track">Job Track</a></h3>
+      <p>Premium job application tracker — CRUD, filters &amp; sorting, insights dashboard, accessible dialogs, skeleton loaders and local persistence.</p>
+      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/shadcn%2Fui-111?style=flat-square&logo=shadcnui" />
+      <br/><br/><a href="https://ali-sazzad.github.io/job-track/"><b>🔗 Live demo →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌏 <a href="https://github.com/ali-sazzad/digital-pragati">Digital Pragati</a></h3>
+      <p>Lead-generation websites for Nepali-owned businesses in Australia and Nepal — Next.js site, static site and enquiry backend.</p>
+      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <br/><br/><a href="https://ali-sazzad.github.io/digital-pragati/"><b>🔗 Live demo →</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛒 <a href="https://github.com/ali-sazzad/sitebazaar">SiteBazaar</a></h3>
+      <p>Colourful website marketplace with bidding and auctions, built on the Next.js App Router.</p>
+      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/shadcn%2Fui-111?style=flat-square&logo=shadcnui" />
+      <br/><br/><a href="https://sitebazaar.vercel.app"><b>🔗 Live demo →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧑‍💻 <a href="https://github.com/ali-sazzad/sazzadali-portfolio">Portfolio</a></h3>
+      <p>My personal portfolio as a Frontend &amp; UI/UX Engineer: case studies, projects and contact.</p>
+      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel" />
+      <br/><br/><a href="https://sazzadali-portfolio.vercel.app"><b>🔗 Live demo →</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✨ <a href="https://github.com/ali-sazzad/brainwave-reactvite">Brainwave</a></h3>
+      <p>Modern AI-themed landing page with smooth animations and parallax, built with React and Vite.</p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <br/><br/><a href="https://brainwave-reactvite.vercel.app"><b>🔗 Live demo →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📋 <a href="https://github.com/ali-sazzad/job-application-tracker">Job Application Tracker</a></h3>
+      <p>Accessible tracker in semantic HTML, Tailwind and vanilla JS — search, filter, focus-trapped modal and scroll-spy nav.</p>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <br/><br/><a href="https://job-application-tracker-mu-ruby.vercel.app/"><b>🔗 Live demo →</b></a>
+    </td>
+  </tr>
+</table>
+
+## 📊 GitHub activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ali-sazzad&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=F472B6&currStreakLabel=A78BFA" alt="GitHub streak" width="49%" />
+</p>
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" width="100%" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ali-sazzad/ali-sazzad/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ali-sazzad/ali-sazzad/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/ali-sazzad/ali-sazzad/output/github-snake.svg" />
+  </picture>
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt="" />
+</p>

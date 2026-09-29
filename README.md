@@ -14,6 +14,7 @@
   <a href="https://www.linkedin.com/in/sazzadali/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/Sazzad_Ali_0"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://www.instagram.com/craftcode_studio/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:learn.craftcodestudio@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=ali-sazzad&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
@@ -35,7 +36,7 @@ const sazzad = {
 - 🎨 I design in **Figma** and ship in **Next.js + TypeScript** — from wireframe to production.
 - ♿ I care about accessibility, performance and the small details that make an interface feel premium.
 - 🤖 Exploring how AI can make everyday products smarter and simpler.
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/sazzadali/) — always happy to talk design, code or collaboration.
+- 📫 Reach me at [learn.craftcodestudio@gmail.com](mailto:learn.craftcodestudio@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/sazzadali/) — always happy to talk design, code or collaboration.
 
 ## 🛠️ Tech stack
 

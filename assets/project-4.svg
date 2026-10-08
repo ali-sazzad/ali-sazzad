@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="210" viewBox="0 0 580 210">
+<defs>
+  <linearGradient id="f" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0C1A13"/><stop offset="1" stop-color="#06100B"/></linearGradient>
+  <radialGradient id="glow" cx="1" cy="0" r="1"><stop offset="0" stop-color="#22D3B8" stop-opacity=".35"/><stop offset="1" stop-color="#22D3B8" stop-opacity="0"/></radialGradient>
+  <clipPath id="r"><rect x="2" y="2" width="576" height="206" rx="20"/></clipPath>
+</defs>
+<rect x="2" y="2" width="576" height="206" rx="20" fill="url(#f)"/>
+<g clip-path="url(#r)"><rect width="580" height="210" fill="url(#glow)"/>
+  <text x="560" y="150" text-anchor="end" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="900" font-size="120" fill="#22D3B8" fill-opacity=".08">04</text>
+  <rect x="0" y="0" width="5" height="210" fill="#22D3B8"/></g>
+<rect x="2" y="2" width="576" height="206" rx="20" fill="none" stroke="#22D3B8" stroke-opacity=".7" stroke-width="1.5" stroke-dasharray="40 600"><animate attributeName="stroke-dashoffset" values="0;-640" dur="6s" repeatCount="indefinite"/></rect>
+<rect x="2" y="2" width="576" height="206" rx="20" fill="none" stroke="#ffffff" stroke-opacity=".1"/>
+<text x="34" y="52" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="12" letter-spacing="3" fill="#22D3B8">PROJECT / 04</text>
+<text x="34" y="78" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="800" font-size="25" fill="#FFFFFF">Portfolio</text>
+<text x="34" y="98" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#A7C4B5">Personal portfolio as a Frontend &amp; UI/UX</text><text x="34" y="120" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#A7C4B5">engineer: case studies, projects and contact.</text>
+<g transform="translate(34 158)"><rect width="79" height="26" rx="13" fill="#22D3B8" fill-opacity=".12" stroke="#22D3B8" stroke-opacity=".5"/><text x="39.5" y="18" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="12" fill="#22D3B8">Next.js</text></g><g transform="translate(121 158)"><rect width="102" height="26" rx="13" fill="#22D3B8" fill-opacity=".12" stroke="#22D3B8" stroke-opacity=".5"/><text x="51" y="18" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="12" fill="#22D3B8">TypeScript</text></g><g transform="translate(231 158)"><rect width="71" height="26" rx="13" fill="#22D3B8" fill-opacity=".12" stroke="#22D3B8" stroke-opacity=".5"/><text x="35.5" y="18" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="12" fill="#22D3B8">Vercel</text></g>
+<text x="546" y="176" text-anchor="end" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="22" fill="#22D3B8">↗</text>
+</svg>

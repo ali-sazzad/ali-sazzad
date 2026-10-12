@@ -4,21 +4,21 @@
 </p>
 
 <p align="center">
-  <a href="https://sazzadali-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-5CFFA8?style=for-the-badge&logo=googlechrome&logoColor=06100B&labelColor=06100B" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/sazzadali/"><img src="https://img.shields.io/badge/LinkedIn-22D3B8?style=for-the-badge&logo=linkedin&logoColor=06100B&labelColor=06100B" alt="LinkedIn" /></a>
-  <a href="https://x.com/Sazzad_Ali_0"><img src="https://img.shields.io/badge/X-B6FF5C?style=for-the-badge&logo=x&logoColor=06100B&labelColor=06100B" alt="X" /></a>
-  <a href="https://www.instagram.com/craftcode_studio/"><img src="https://img.shields.io/badge/Instagram-34D399?style=for-the-badge&logo=instagram&logoColor=06100B&labelColor=06100B" alt="Instagram" /></a>
-  <a href="mailto:find.sazzadali@gmail.com"><img src="https://img.shields.io/badge/Email-E6FF8A?style=for-the-badge&logo=gmail&logoColor=06100B&labelColor=06100B" alt="Email" /></a>
+  <a href="https://sazzadali-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2EBD74?style=for-the-badge&logo=googlechrome&logoColor=030A06&labelColor=030A06" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/sazzadali/"><img src="https://img.shields.io/badge/LinkedIn-1A9E7C?style=for-the-badge&logo=linkedin&logoColor=030A06&labelColor=030A06" alt="LinkedIn" /></a>
+  <a href="https://x.com/Sazzad_Ali_0"><img src="https://img.shields.io/badge/X-6FAE3B?style=for-the-badge&logo=x&logoColor=030A06&labelColor=030A06" alt="X" /></a>
+  <a href="https://www.instagram.com/craftcode_studio/"><img src="https://img.shields.io/badge/Instagram-1F9D63?style=for-the-badge&logo=instagram&logoColor=030A06&labelColor=030A06" alt="Instagram" /></a>
+  <a href="mailto:find.sazzadali@gmail.com"><img src="https://img.shields.io/badge/Email-B5D86A?style=for-the-badge&logo=gmail&logoColor=030A06&labelColor=030A06" alt="Email" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ali-sazzad&style=for-the-badge&color=5CFFA8&labelColor=06100B&label=PROFILE+VIEWS" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/ali-sazzad?style=for-the-badge&logo=github&label=Followers&color=22D3B8&labelColor=06100B" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=ali-sazzad&style=for-the-badge&color=2EBD74&labelColor=030A06&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/ali-sazzad?style=for-the-badge&logo=github&label=Followers&color=1A9E7C&labelColor=030A06" alt="Followers" />
 </p>
 
 <p align="center">
   <a href="https://sazzadali-portfolio.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=700&color=5CFFA8&center=true&vCenter=true&width=520&lines=Full-Stack+Engineer+%E2%80%A2+Frontend+%26+UI%2FUX;Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Tailwind;AI-powered+products%2C+built+with+care;Based+in+Australia+%F0%9F%87%A6%F0%9F%87%BA" alt="Full-Stack Engineer, Next.js, TypeScript, AI-powered products, Based in Australia" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=700&color=2EBD74&center=true&vCenter=true&width=520&lines=Full-Stack+Engineer+%E2%80%A2+Frontend+%26+UI%2FUX;Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Tailwind;AI-powered+products%2C+built+with+care;Based+in+Australia+%F0%9F%87%A6%F0%9F%87%BA" alt="Full-Stack Engineer, Next.js, TypeScript, AI-powered products, Based in Australia" />
   </a>
 </p>
 
@@ -37,38 +37,50 @@
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/ali-sazzad/job-track"><img src="./assets/project-1.svg" alt="Job Track — premium job application tracker" /></a><br/>
-      <a href="https://ali-sazzad.github.io/job-track/"><img src="https://img.shields.io/badge/%E2%96%B6%20Live%20Demo-5CFFA8?style=flat-square&labelColor=06100B" alt="Live demo" /></a>
-      <a href="https://github.com/ali-sazzad/job-track"><img src="https://img.shields.io/badge/Source-0B1B14?style=flat-square&logo=github" alt="Source" /></a>
+      <a href="https://github.com/ali-sazzad/job-track"><img src="./assets/project-1.svg" alt="Job Track" /></a><br/>
+      <a href="https://ali-sazzad.github.io/job-track/"><img src="https://img.shields.io/badge/%E2%96%B6%20Live%20Demo-2EBD74?style=flat-square&labelColor=030A06" alt="Live demo" /></a>
+      <a href="https://github.com/ali-sazzad/job-track"><img src="https://img.shields.io/badge/Source-08170F?style=flat-square&logo=github" alt="Source" /></a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/ali-sazzad/digital-pragati"><img src="./assets/project-2.svg" alt="Digital Pragati — lead-generation websites" /></a><br/>
-      <a href="https://ali-sazzad.github.io/digital-pragati/"><img src="https://img.shields.io/badge/%E2%96%B6%20Live%20Demo-E6FF8A?style=flat-square&labelColor=06100B" alt="Live demo" /></a>
-      <a href="https://github.com/ali-sazzad/digital-pragati"><img src="https://img.shields.io/badge/Source-0B1B14?style=flat-square&logo=github" alt="Source" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/ali-sazzad/sitebazaar"><img src="./assets/project-3.svg" alt="SiteBazaar — website marketplace" /></a><br/>
-      <a href="https://sitebazaar.vercel.app"><img src="https://img.shields.io/badge/%E2%96%B6%20Live%20Demo-34D399?style=flat-square&labelColor=06100B" alt="Live demo" /></a>
-      <a href="https://github.com/ali-sazzad/sitebazaar"><img src="https://img.shields.io/badge/Source-0B1B14?style=flat-square&logo=github" alt="Source" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/ali-sazzad/sazzadali-portfolio"><img src="./assets/project-4.svg" alt="Portfolio — Frontend and UI/UX engineer" /></a><br/>
-      <a href="https://sazzadali-portfolio.vercel.app"><img src="https://img.shields.io/badge/%E2%96%B6%20Live%20Demo-22D3B8?style=flat-square&labelColor=06100B" alt="Live demo" /></a>
-      <a href="https://github.com/ali-sazzad/sazzadali-portfolio"><img src="https://img.shields.io/badge/Source-0B1B14?style=flat-square&logo=github" alt="Source" /></a>
+      <a href="https://github.com/ali-sazzad/digital-pragati"><img src="./assets/project-2.svg" alt="Digital Pragati" /></a><br/>
+      <a href="https://ali-sazzad.github.io/digital-pragati/"><img src="https://img.shields.io/badge/%E2%96%B6%20Live%20Demo-1A9E7C?style=flat-square&labelColor=030A06" alt="Live demo" /></a>
+      <a href="https://github.com/ali-sazzad/digital-pragati"><img src="https://img.shields.io/badge/Source-08170F?style=flat-square&logo=github" alt="Source" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/ali-sazzad/brainwave-reactvite"><img src="./assets/project-5.svg" alt="Brainwave — AI-themed landing page" /></a><br/>
-      <a href="https://brainwave-reactvite.vercel.app"><img src="https://img.shields.io/badge/%E2%96%B6%20Live%20Demo-B6FF5C?style=flat-square&labelColor=06100B" alt="Live demo" /></a>
-      <a href="https://github.com/ali-sazzad/brainwave-reactvite"><img src="https://img.shields.io/badge/Source-0B1B14?style=flat-square&logo=github" alt="Source" /></a>
+      <a href="https://github.com/ali-sazzad/sitebazaar"><img src="./assets/project-3.svg" alt="SiteBazaar" /></a><br/>
+      <a href="https://sitebazaar.vercel.app"><img src="https://img.shields.io/badge/%E2%96%B6%20Live%20Demo-6FAE3B?style=flat-square&labelColor=030A06" alt="Live demo" /></a>
+      <a href="https://github.com/ali-sazzad/sitebazaar"><img src="https://img.shields.io/badge/Source-08170F?style=flat-square&logo=github" alt="Source" /></a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/ali-sazzad/job-application-tracker"><img src="./assets/project-6.svg" alt="Job Application Tracker — accessible tracker" /></a><br/>
-      <a href="https://job-application-tracker-mu-ruby.vercel.app/"><img src="https://img.shields.io/badge/%E2%96%B6%20Live%20Demo-86EFAC?style=flat-square&labelColor=06100B" alt="Live demo" /></a>
-      <a href="https://github.com/ali-sazzad/job-application-tracker"><img src="https://img.shields.io/badge/Source-0B1B14?style=flat-square&logo=github" alt="Source" /></a>
+      <a href="https://github.com/ali-sazzad/sazzadali-portfolio"><img src="./assets/project-4.svg" alt="Portfolio" /></a><br/>
+      <a href="https://sazzadali-portfolio.vercel.app"><img src="https://img.shields.io/badge/%E2%96%B6%20Live%20Demo-1F9D63?style=flat-square&labelColor=030A06" alt="Live demo" /></a>
+      <a href="https://github.com/ali-sazzad/sazzadali-portfolio"><img src="https://img.shields.io/badge/Source-08170F?style=flat-square&logo=github" alt="Source" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ali-sazzad/portfolion2026"><img src="./assets/project-5.svg" alt="Portfolion 2026" /></a><br/>
+      <a href="https://portfolion2026.vercel.app"><img src="https://img.shields.io/badge/%E2%96%B6%20Live%20Demo-5FBF86?style=flat-square&labelColor=030A06" alt="Live demo" /></a>
+      <a href="https://github.com/ali-sazzad/portfolion2026"><img src="https://img.shields.io/badge/Source-08170F?style=flat-square&logo=github" alt="Source" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ali-sazzad/shareefs-checklists"><img src="./assets/project-6.svg" alt="Shareef's Checklists" /></a><br/>
+      <a href="https://daily-shift-checklists-aus.vercel.app"><img src="https://img.shields.io/badge/%E2%96%B6%20Live%20Demo-B5D86A?style=flat-square&labelColor=030A06" alt="Live demo" /></a>
+      <a href="https://github.com/ali-sazzad/shareefs-checklists"><img src="https://img.shields.io/badge/Source-08170F?style=flat-square&logo=github" alt="Source" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ali-sazzad/Makura-Site-Redesign"><img src="./assets/project-7.svg" alt="Makura Redesign" /></a><br/>
+      <a href="https://makura-site.vercel.app/"><img src="https://img.shields.io/badge/%E2%96%B6%20Live%20Demo-2EBD74?style=flat-square&labelColor=030A06" alt="Live demo" /></a>
+      <a href="https://github.com/ali-sazzad/Makura-Site-Redesign"><img src="https://img.shields.io/badge/Source-08170F?style=flat-square&logo=github" alt="Source" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ali-sazzad/job-application-tracker"><img src="./assets/project-8.svg" alt="Job Application Tracker" /></a><br/>
+      <a href="https://job-application-tracker-mu-ruby.vercel.app/"><img src="https://img.shields.io/badge/%E2%96%B6%20Live%20Demo-1A9E7C?style=flat-square&labelColor=030A06" alt="Live demo" /></a>
+      <a href="https://github.com/ali-sazzad/job-application-tracker"><img src="https://img.shields.io/badge/Source-08170F?style=flat-square&logo=github" alt="Source" /></a>
     </td>
   </tr>
 </table>
@@ -88,7 +100,7 @@
 <p align="center"><img src="./assets/t-activity.svg" width="100%" alt="Activity" /></p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ali-sazzad&theme=dark&hide_border=true&background=06100B&ring=5CFFA8&fire=B6FF5C&currStreakNum=FFFFFF&currStreakLabel=5CFFA8&sideNums=22D3B8&sideLabels=E6FF8A&dates=8FB5A2&stroke=0B1B14" width="495" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=ali-sazzad&theme=dark&hide_border=true&background=030A06&ring=2EBD74&fire=6FAE3B&currStreakNum=FFFFFF&currStreakLabel=2EBD74&sideNums=1A9E7C&sideLabels=B5D86A&dates=8FB5A2&stroke=08170F" width="495" alt="GitHub streak" />
 </p>
 
 <p align="center">

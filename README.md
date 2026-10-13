@@ -13,7 +13,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ali-sazzad&style=for-the-badge&color=2EBD74&labelColor=030A06&label=PROFILE+VIEWS" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/ali-sazzad?style=for-the-badge&logo=github&label=Followers&color=1A9E7C&labelColor=030A06" alt="Followers" />
+  <a href="https://github.com/ali-sazzad?tab=followers"><img src="https://img.shields.io/github/followers/ali-sazzad?style=for-the-badge&logo=github&label=Follow&color=1A9E7C&labelColor=030A06" alt="Follow @ali-sazzad on GitHub" /></a>
 </p>
 
 <p align="center">
@@ -117,6 +117,10 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ali-sazzad/ali-sazzad/output/github-snake.svg" />
     <img src="https://raw.githubusercontent.com/ali-sazzad/ali-sazzad/output/github-snake.svg" width="100%" alt="Contribution snake" />
   </picture>
+</p>
+
+<p align="center">
+  <b>Like what you see?</b> ⭐ Star a project or <a href="https://github.com/ali-sazzad"><b>follow me</b></a> to see what I ship next.
 </p>
 
 <!-- Footer -->

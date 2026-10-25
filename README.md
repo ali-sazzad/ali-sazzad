@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/sazzadali/"><img src="https://img.shields.io/badge/LinkedIn-1A9E7C?style=for-the-badge&logo=linkedin&logoColor=030A06&labelColor=030A06" alt="LinkedIn" /></a>
   <a href="https://x.com/_sazzad_ali"><img src="https://img.shields.io/badge/X-6FAE3B?style=for-the-badge&logo=x&logoColor=030A06&labelColor=030A06" alt="X" /></a>
   <a href="https://www.instagram.com/craftcode_studio/"><img src="https://img.shields.io/badge/Instagram-1F9D63?style=for-the-badge&logo=instagram&logoColor=030A06&labelColor=030A06" alt="Instagram" /></a>
-  <a href="mailto:find.sazzadali@gmail.com"><img src="https://img.shields.io/badge/Email-B5D86A?style=for-the-badge&logo=gmail&logoColor=030A06&labelColor=030A06" alt="Email" /></a>
+  <a href="mailto:sazzadali@teamredesign.com"><img src="https://img.shields.io/badge/Email-B5D86A?style=for-the-badge&logo=gmail&logoColor=030A06&labelColor=030A06" alt="Email" /></a>
 </p>
 
 <p align="center">

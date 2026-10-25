@@ -43,7 +43,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/ali-sazzad/digital-pragati"><img src="./assets/project-2.svg" alt="Digital Pragati" /></a><br/>
-      <a href="https://ali-sazzad.github.io/digital-pragati/"><img src="https://img.shields.io/badge/%E2%96%B6%20Live%20Demo-1A9E7C?style=flat-square&labelColor=030A06" alt="Live demo" /></a>
+      <a href="https://digital-pragati.vercel.app"><img src="https://img.shields.io/badge/%E2%96%B6%20Live%20Demo-1A9E7C?style=flat-square&labelColor=030A06" alt="Live demo" /></a>
       <a href="https://github.com/ali-sazzad/digital-pragati"><img src="https://img.shields.io/badge/Source-08170F?style=flat-square&logo=github" alt="Source" /></a>
     </td>
   </tr>
